@@ -17,7 +17,8 @@ The feasible design region was identified, and an optimal configuration was sele
 
 -Geometry modeling and meshing were performed using ANSYS ICEM
 
-![Meshed_wing](images/meshed_wing.png)
+![Mesh](images/mesh.png)
+![Wing](images/wing.png)
 
 -CFD simulations were conducted in ANSYS Fluent
 

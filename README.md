@@ -41,4 +41,4 @@ The same configurations were modeled and analyzed using OpenVSP. A comparison be
 
 🧠 Conclusion
 
-This project demonstrates a complete aerodynamic workflow from preliminary sizing to advanced CFD analysis. The results confirm the effectiveness of winglets in improving aerodynamic performance and highlight the importance of validation through multiple modeling approaches.
+At an angle of attack of 6°, the integration of canted winglets resulted in measurable aerodynamic improvements, including a drag reduction of approximately 3% and a lift increase of about 8%, leading to an overall efficiency improvement of around 11%. These results confirm the effectiveness of winglets in enhancing aerodynamic performance. The consistency between ANSYS Fluent and OpenVSP results further supports the reliability of the simulation approach.

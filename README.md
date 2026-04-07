@@ -10,8 +10,11 @@ A constraint analysis was performed using MATLAB based on Raymer’s methodology
 The feasible design region was identified, and an optimal configuration was selected. Based on this, the wing geometry was defined, and the S5010 airfoil was selected from the NASA database.
 
 🛠️ Geometry & CFD Analysis (ANSYS)
+
 -Geometry modeling and meshing were performed using ANSYS ICEM
+
 -CFD simulations were conducted in ANSYS Fluent
+
 -Two configurations were analyzed:
 
   1-Clean wing

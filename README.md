@@ -35,10 +35,23 @@ A comparative analysis was performed to evaluate the impact of winglets on aerod
   
 The results show that the addition of canted winglets improves aerodynamic efficiency by reducing drag and enhancing lift characteristics.
 
+📊 Aerodynamic Performance Curves
+
+The variation of aerodynamic coefficients with angle of attack was analyzed using MATLAB:
+
+-Lift coefficient (Cl) vs Angle of Attack
+
+-Drag coefficient (Cd) vs Angle of Attack
+
+-Aerodynamic efficiency (Cl/Cd) vs Angle of Attack
+
+These results highlight the performance trends of both configurations and demonstrate the aerodynamic benefits of winglets across multiple operating conditions.
+
 🔁 Cross-Validation (OpenVSP)
 
 The same configurations were modeled and analyzed using OpenVSP. A comparison between ANSYS Fluent and OpenVSP results showed consistent aerodynamic trends, confirming the reliability of the simulations and the validity of the design approach.
 
 🧠 Conclusion
 
-At an angle of attack of 6°, the integration of canted winglets resulted in measurable aerodynamic improvements, including a drag reduction of approximately 3% and a lift increase of about 8%, leading to an overall efficiency improvement of around 11%. These results confirm the effectiveness of winglets in enhancing aerodynamic performance. The consistency between ANSYS Fluent and OpenVSP results further supports the reliability of the simulation approach.
+A parametric analysis was conducted for angles of attack ranging from 2° to 8°. The results show consistent aerodynamic improvements with the integration of canted winglets across all tested conditions. At an angle of attack of 6°, the winglet configuration achieved a drag reduction of approximately 3% and a lift increase of about 8%, resulting in an overall efficiency improvement of around 11%.
+The trends observed in lift, drag, and aerodynamic efficiency confirm the effectiveness of winglets in enhancing performance. Additionally, the agreement between ANSYS Fluent and OpenVSP results validates the reliability of the simulation approach.

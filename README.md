@@ -13,14 +13,20 @@ The feasible design region was identified, and an optimal configuration was sele
 -Geometry modeling and meshing were performed using ANSYS ICEM
 -CFD simulations were conducted in ANSYS Fluent
 -Two configurations were analyzed:
+
   1-Clean wing
+  
   2-Wing with canted winglet
 
 🔬 Comparative Study
 A comparative analysis was performed to evaluate the impact of winglets on aerodynamic performance:
+
   -Lift coefficient (Cl)
+  
   -Drag coefficient (Cd)
+  
   -Aerodynamic efficiency (Cl/Cd)
+  
 The results show that the addition of canted winglets improves aerodynamic efficiency by reducing drag and enhancing lift characteristics.
 
 🔁 Cross-Validation (OpenVSP)

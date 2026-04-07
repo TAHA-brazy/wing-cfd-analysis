@@ -10,6 +10,7 @@ This project presents a complete aerodynamic design and analysis of a fixed-wing
 
 A constraint analysis was performed using MATLAB based on Raymer’s methodology to determine the optimal design point. The relationship between wing loading (W/S) and power loading (W/P) was evaluated under multiple performance constraints, including stall speed, maximum speed, takeoff distance, rate of climb, and service ceiling.
 The feasible design region was identified, and an optimal configuration was selected. Based on this, the wing geometry was defined, and the S5010 airfoil was selected from the NASA database.
+
 ![Constraint Analysis](images/constraint_analysis.png)
 🛠️ Geometry & CFD Analysis (ANSYS)
 

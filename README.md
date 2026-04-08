@@ -32,25 +32,23 @@ The feasible design region was identified, and an optimal configuration was sele
 
 🔬 Comparative Study
 
-A comparative analysis was performed to evaluate the impact of winglets on aerodynamic performance:
-
-  -Lift coefficient (Cl)
-  
-  -Drag coefficient (Cd)
-  
-  -Aerodynamic efficiency (Cl/Cd)
-  
-The results show that the addition of canted winglets improves aerodynamic efficiency by reducing drag and enhancing lift characteristics.
+A comparative analysis was performed to evaluate the impact of winglets on aerodynamic performance. The results show that the addition of canted winglets improves aerodynamic efficiency by reducing drag and enhancing lift characteristics. A comparative analysis was performed to evaluate the impact of winglets on aerodynamic performance
 
 📊 Aerodynamic Performance Curves
 
-The variation of aerodynamic coefficients with angle of attack was analyzed using MATLAB:
+The variation of aerodynamic coefficients with angle of attack was analyzed for clean wing and wing with winglet using Excel:
 
 -Lift coefficient (Cl) vs Angle of Attack
 
+![cl](images/cl.png)
+
 -Drag coefficient (Cd) vs Angle of Attack
 
+![CD](images/CD.png)
+
 -Aerodynamic efficiency (Cl/Cd) vs Angle of Attack
+
+![f](images/f.png)
 
 These results highlight the performance trends of both configurations and demonstrate the aerodynamic benefits of winglets across multiple operating conditions.
 

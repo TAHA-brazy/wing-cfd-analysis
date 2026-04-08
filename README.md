@@ -34,7 +34,7 @@ The feasible design region was identified, and an optimal configuration was sele
 
 🔬 Comparative Study
 
-A comparative analysis was performed to evaluate the impact of winglets on aerodynamic performance. The results show that the addition of canted winglets improves aerodynamic efficiency by reducing drag and enhancing lift characteristics. A comparative analysis was performed to evaluate the impact of winglets on aerodynamic performance
+A comparative analysis was performed to evaluate the impact of winglets on aerodynamic performance. The results show that the addition of canted winglets improves aerodynamic efficiency by reducing drag and enhancing lift characteristics.
 
 📊 Aerodynamic Performance Curves
 

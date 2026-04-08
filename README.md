@@ -86,4 +86,5 @@ The trends observed in lift, drag, and aerodynamic efficiency confirm the effect
 
 📄 Full Report
 A detailed version of this project is available in Arabic and has been officially archived at the Higher Institute for Applied Science and Technology (HIAST), Aleppo, Syria. The report includes full design methodology, CFD analysis, and results.
+
 👉 An English summary will be provided soon.

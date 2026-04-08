@@ -58,6 +58,11 @@ These results highlight the performance trends of both configurations and demons
 
 The same configurations were modeled and analyzed using OpenVSP. A comparison between ANSYS Fluent and OpenVSP results showed consistent aerodynamic trends, confirming the reliability of the simulations and the validity of the design approach.
 
+![openvsp_cleanwing](images/openvsp_cleanwing.png)
+
+![openvsp_winglets](images/openvsp_winglets.png)
+
+
 🧠 Conclusion
 
 A parametric analysis was conducted for angles of attack ranging from 2° to 8°. The results show consistent aerodynamic improvements with the integration of canted winglets across all tested conditions. At an angle of attack of 6°, the winglet configuration achieved a drag reduction of approximately 3% and a lift increase of about 8%, resulting in an overall efficiency improvement of around 11%.

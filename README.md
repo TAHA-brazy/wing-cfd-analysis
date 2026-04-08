@@ -24,6 +24,8 @@ The feasible design region was identified, and an optimal configuration was sele
 
 -CFD simulations were conducted in ANSYS Fluent
 
+![residual](images/residual.png)
+
 -Two configurations were analyzed:
 
   1-Clean wing

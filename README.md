@@ -2,6 +2,8 @@
 
 ✈️ Aerodynamic Design and CFD Analysis of a Fixed-Wing with Canted Winglets
 
+This project presents a complete aerodynamic design and CFD analysis of a fixed-wing UAV, including preliminary sizing, simulation, and validation.
+
 📌 Overview
 
 This project presents a complete aerodynamic design and analysis of a fixed-wing drone, including preliminary sizing, geometric modeling, and computational fluid dynamics (CFD) simulations. The objective is to evaluate the impact of canted winglets on aerodynamic performance and validate results using different modeling tools.
@@ -88,3 +90,6 @@ The trends observed in lift, drag, and aerodynamic efficiency confirm the effect
 A detailed version of this project is available in Arabic and has been officially archived at the Higher Institute for Applied Science and Technology (HIAST), Aleppo, Syria. The report includes full design methodology, CFD analysis, and results.
 
 👉 An English summary will be provided soon.
+
+
+👉 Developed as part of my undergraduate studies in Aeronautical Engineering.

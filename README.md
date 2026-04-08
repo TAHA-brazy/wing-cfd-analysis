@@ -62,8 +62,20 @@ The same configurations were modeled and analyzed using OpenVSP. A comparison be
 
 ![openvsp_winglets](images/openvsp_winglets.png)
 
+🌪️ Wingtip Vortex Visualization
+Velocity vector plots were used to analyze the airflow behavior around the wingtip for both configurations.
+
+-Clean Wing
+
+-Wing with Canted Winglet
+
+The results show that the addition of winglets reduces the strength of wingtip vortices and shifts them away from the wing surface. This leads to a more stable airflow and contributes to improved aerodynamic efficiency.
 
 🧠 Conclusion
 
 A parametric analysis was conducted for angles of attack ranging from 2° to 8°. The results show consistent aerodynamic improvements with the integration of canted winglets across all tested conditions. At an angle of attack of 6°, the winglet configuration achieved a drag reduction of approximately 3% and a lift increase of about 8%, resulting in an overall efficiency improvement of around 11%.
 The trends observed in lift, drag, and aerodynamic efficiency confirm the effectiveness of winglets in enhancing performance. Additionally, the agreement between ANSYS Fluent and OpenVSP results validates the reliability of the simulation approach.
+
+📄 Full Report
+A detailed version of this project is available in Arabic and has been officially archived at the Higher Institute for Applied Science and Technology (HIAST), Aleppo, Syria. The report includes full design methodology, CFD analysis, and results.
+👉 An English summary will be provided soon.

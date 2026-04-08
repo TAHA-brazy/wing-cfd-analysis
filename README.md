@@ -79,7 +79,7 @@ The same configurations were modeled and analyzed using OpenVSP. A comparison be
 
 🌪️ Wingtip Vortex Visualization
 
-Velocity vector plots were used to analyze the airflow behavior around the wingtip for both configurations.
+Velocity line plots were used to analyze the airflow behavior around the wingtip for both configurations.
 
 -Clean Wing
 

@@ -67,7 +67,15 @@ Velocity vector plots were used to analyze the airflow behavior around the wingt
 
 -Clean Wing
 
+![wingarrow](images/wingarrow.png)
+
+![wingarrow2](images/wingarrow2.png)
+
 -Wing with Canted Winglet
+
+![winglets](images/winglets.png)
+
+![winglets2](images/winglets2.png)
 
 The results show that the addition of winglets reduces the strength of wingtip vortices and shifts them away from the wing surface. This leads to a more stable airflow and contributes to improved aerodynamic efficiency.
 

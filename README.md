@@ -5,7 +5,15 @@
 
 📌 Overview
 
-This project presents a complete aerodynamic design and analysis of a fixed-wing drone, including preliminary sizing, geometric modeling, and computational fluid dynamics (CFD) simulations. The objective is to evaluate the impact of canted winglets on aerodynamic performance and validate results using different modeling tools.
+This project presents a complete aerodynamic design and CFD analysis of a fixed-wing UAV, including preliminary sizing, simulation, and validation using ANSYS Fluent and OpenVSP.
+
+🔍 Key Contributions
+
+1-UAV aerodynamic design using Raymer methodology.
+
+2-CFD comparison between clean wing and winglet.
+
+3-Validation using two independent tools.
 
 📐 Preliminary Design (MATLAB)
 
@@ -24,6 +32,12 @@ The feasible design region was identified, and an optimal configuration was sele
 
 
 -CFD simulations were conducted in ANSYS Fluent
+
+👉Limitations:
+
+1-Steady-state simulations.
+
+2-Assumptions in turbulence modeling.
 
 ![residual](images/residual.png)
 
@@ -80,6 +94,10 @@ Velocity vector plots were used to analyze the airflow behavior around the wingt
 
 The results show that the addition of winglets reduces the strength of wingtip vortices and shifts them away from the wing surface. This leads to a more stable airflow and contributes to improved aerodynamic efficiency.
 
+👉Discussion:
+
+The improvements observed are consistent with aerodynamic theory, where winglets reduce induced drag by weakening wingtip vortices.
+
 🧠 Conclusion
 
 A parametric analysis was conducted for angles of attack ranging from 2° to 8°. The results show consistent aerodynamic improvements with the integration of canted winglets across all tested conditions. At an angle of attack of 6°, the winglet configuration achieved a drag reduction of approximately 3% and a lift increase of about 8%, resulting in an overall efficiency improvement of around 11%.
@@ -91,5 +109,6 @@ A detailed version of this project is available in Arabic and has been officiall
 
 👉 An English summary will be provided soon.
 
+👉All modeling, simulations, and analysis were performed independently.
 
 👉 Developed as part of my undergraduate studies in Aeronautical Engineering.

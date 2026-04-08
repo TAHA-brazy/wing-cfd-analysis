@@ -11,7 +11,7 @@ This project presents a complete aerodynamic design and CFD analysis of a fixed-
 
 1-UAV aerodynamic design using Raymer methodology.
 
-2-CFD comparison between clean wing and winglet.
+2-CFD comparison between clean wing and wing with canted winglets.
 
 3-Validation using two independent tools.
 

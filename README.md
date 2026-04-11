@@ -95,7 +95,7 @@ Velocity line plots were used to analyze the airflow behavior around the wingtip
 
 The results show that the addition of winglets reduces the strength of wingtip vortices and shifts them away from the wing surface. This leads to a more stable airflow and contributes to improved aerodynamic efficiency.
 
-👉Discussion:
+👉 Discussion:
 
 The improvements observed are consistent with aerodynamic theory, where winglets reduce induced drag by weakening wingtip vortices.
 

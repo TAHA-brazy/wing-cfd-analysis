@@ -14,6 +14,7 @@ This project presents a complete aerodynamic design and CFD analysis of a fixed-
 2- CFD comparison between clean wing and wing with canted winglets.
 
 3- Validation using two independent tools.
+-----------------------------------------------------------------------------------------------
 
 📐 Preliminary Design (MATLAB)
 

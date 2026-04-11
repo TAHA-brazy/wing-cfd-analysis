@@ -9,11 +9,11 @@ This project presents a complete aerodynamic design and CFD analysis of a fixed-
 
 🔍 Key Contributions
 
-1-UAV aerodynamic design using Raymer methodology.
+1- UAV aerodynamic design using Raymer methodology.
 
-2-CFD comparison between clean wing and wing with canted winglets.
+2- CFD comparison between clean wing and wing with canted winglets.
 
-3-Validation using two independent tools.
+3- Validation using two independent tools.
 
 📐 Preliminary Design (MATLAB)
 
@@ -24,28 +24,28 @@ The feasible design region was identified, and an optimal configuration was sele
 
 🛠️ Geometry & CFD Analysis (ANSYS)
 
--Geometry modeling and meshing were performed using ANSYS ICEM
+- Geometry modeling and meshing were performed using ANSYS ICEM
 
 ![Wing](images/Wing.png)
 
 ![Mesh](images/mesh.png)
 
 
--CFD simulations were conducted in ANSYS Fluent
+- CFD simulations were conducted in ANSYS Fluent
 
 👉Limitations:
 
-1-Steady-state simulations.
+1- Steady-state simulations.
 
-2-Assumptions in turbulence modeling.
+2- Assumptions in turbulence modeling.
 
 ![residual](images/residual.png)
 
--Two configurations were analyzed:
+- Two configurations were analyzed:
 
-  1-Clean wing
+  1- Clean wing
   
-  2-Wing with canted winglet
+  2- Wing with canted winglet
 
 🔬 Comparative Study
 
@@ -55,15 +55,15 @@ A comparative analysis was performed to evaluate the impact of winglets on aerod
 
 The variation of aerodynamic coefficients with angle of attack was analyzed for clean wing and wing with winglet using Excel:
 
--Lift coefficient (Cl) vs Angle of Attack
+- Lift coefficient (Cl) vs Angle of Attack
 
 ![cl](images/cl.png)
 
--Drag coefficient (Cd) vs Angle of Attack
+- Drag coefficient (Cd) vs Angle of Attack
 
 ![CD](images/CD.png)
 
--Aerodynamic efficiency (Cl/Cd) vs Angle of Attack
+- Aerodynamic efficiency (Cl/Cd) vs Angle of Attack
 
 ![f](images/f.png)
 
@@ -81,13 +81,13 @@ The same configurations were modeled and analyzed using OpenVSP. A comparison be
 
 Velocity line plots were used to analyze the airflow behavior around the wingtip for both configurations.
 
--Clean Wing
+- Clean Wing
 
 ![wingarrow](images/wingarrow.jpg)
 
 ![wingarrow2](images/wingarrow2.jpg)
 
--Wing with Canted Winglet
+- Wing with Canted Winglet
 
 ![winglets](images/winglets.jpg)
 
@@ -110,6 +110,6 @@ A detailed version of this project is available in Arabic and has been officiall
 
 👉 An English summary will be provided soon.
 
-👉All modeling, simulations, and analysis were performed independently.
+👉 All modeling, simulations, and analysis were performed independently.
 
 👉 Developed as part of my undergraduate studies in Aeronautical Engineering.
